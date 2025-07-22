@@ -19,15 +19,6 @@ It uses clean visualizations including:
 
 ---
 
-## 📊 Dashboard Preview
-
-### 🔹 Full Dashboard View
-![Dashboard](screenshots/dashboard_view.png)
-
-### 🔹 KPI Cards Close-Up
-![Cards](screenshots/cards_view.png)
-
----
 
 ## 🛠️ Tools Used
 
